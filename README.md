@@ -1,1 +1,11 @@
-"# MNIST" 
+!!! Following these main steps instruction to run available project
+- Training MNIST model ( use google colan, kaggle, ... )
+- I have trained a sample model in file: "mnist_keras_model" ( use new model )
+- Download STM32Cube app
+- Select STM32F429ZI
+- Set default peripherals
+- Add X-Cube AI ( version 5.0.0 )
+- Add MNIST model to X-Cube AI
+- Add peripherals, MNIST model to "main.c"
+- Design User Interface to STM32
+- Build and run the program and now it's work on STM32 device
