@@ -1,0 +1,4 @@
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/app_x-cube-ai.c:72:5:aiInit	4
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/app_x-cube-ai.c:106:5:aiRun	1
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/app_x-cube-ai.c:128:6:MX_X_CUBE_AI_Init	1
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/app_x-cube-ai.c:140:6:MX_X_CUBE_AI_Process	1

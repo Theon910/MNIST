@@ -1,0 +1,9 @@
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:88:5:main	14
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:207:6:mnist_game_reset	1
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:214:5:_write	2
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:222:6:touch_sensor_init	2
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:229:6:user_interface_init	1
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:247:6:user_interface_reset	1
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:267:6:SystemClock_Config	3
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:320:6:HAL_TIM_PeriodElapsedCallback	2
+D:/STM32/Project3/EMB_MNIST/MNIST/Src/main.c:337:6:Error_Handler	1
