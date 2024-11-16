@@ -1,5 +1,5 @@
 !!! Following these main steps instruction to run available project
-- Training MNIST model ( use google colan, kaggle, ... )
+- Training MNIST model ( use google colab, kaggle, ... )
 - I have trained a sample model in file: "mnist_keras_model" ( use new model )
 - Download STM32Cube app
 - Select STM32F429ZI
